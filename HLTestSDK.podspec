@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "HLTestSDK"
   
-  spec.version      = "0.0.6"
+  spec.version      = "0.0.7"
   
   spec.license      = "MIT"
   
