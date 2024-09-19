@@ -1,26 +1,26 @@
-Pod::Spec.new do |s|
+Pod::Spec.new do |spec|
 
-  s.name         = "HLTestSDK"
-  s.version      = "0.1.0.1"
-  s.summary      = "猫猫"
-  s.license      = "MIT"
-  s.author             = { "liuqun" => "1271719322@qq.com" }
-  s.homepage     = "https://github.com/gjjggg/PodKu"
-  s.source       = { :git => "https://github.com/gjjggg/PodKu.git", :tag => "#{spec.version}"}
+  spec.name         = "HLTestSDK"
+  spec.version      = "0.1.0.1"
+  spec.summary      = "猫猫"
+  spec.license      = "MIT"
+  spec.author             = { "liuqun" => "1271719322@qq.com" }
+  spec.homepage     = "https://github.com/gjjggg/PodKu"
+  spec.source       = { :git => "https://github.com/gjjggg/PodKu.git", :tag => "#{spec.version}"}
   
-  s.platform     = :ios
-  s.platform     = :ios, "12.0"
+  spec.platform     = :ios
+  spec.platform     = :ios, "12.0"
 
  
 
-  s.source_files  = "SDAutoLayout/**/*.{h,m}"
-  s.vendored_frameworks = 'HLTestSDK/NewLib.framework'
-  s.frameworks = "Foundation"
+  spec.source_files  = "HLTestSDK/*"
+   #  spec.vendored_frameworks = 'HLTestSDK/NewLib.framework'
+    # spec.frameworks = "Foundation"
 
   # s.public_header_files = "Classes/**/*.h"
 
 
-  s.requires_arc = true
+  spec.requires_arc = true
 
 
 end
