@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "NewLib"
+  spec.name         = "HLTestSDK"
   
   spec.version      = "0.1.0.1"
   
@@ -12,9 +12,8 @@ Pod::Spec.new do |spec|
   
   spec.source       = { :git => "https://github.com/gjjggg/PodKu.git", :tag => "#{spec.version}" }
   
-  spec.source_files = "HLTestSDK/NewLib.framework/Headers/*"
   spec.vendored_frameworks = 'HLTestSDK/NewLib.framework'
-  spec.frameworks = "UIKit","Foundation"
+  spec.frameworks = "Foundation"
   spec.platform     = :ios, "12.0" #平台及支持的最低版本
   
   
