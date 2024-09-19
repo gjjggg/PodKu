@@ -12,8 +12,8 @@ Pod::Spec.new do |spec|
   
   spec.source       = { :git => "https://github.com/gjjggg/PodKu.git", :tag => "#{spec.version}" }
   
-  spec.source_files = "HLTestSDK/SDK.framework/Headers/*"
-  spec.vendored_frameworks = 'HLTestSDK/SDK.framework'
+  spec.source_files = "HLTestSDK/NewLib.framework/Headers/*"
+  spec.vendored_frameworks = 'HLTestSDK/NewLib.framework'
   spec.frameworks = "UIKit","Foundation","WebKit"
   spec.platform     = :ios, "12.0" #平台及支持的最低版本
   
