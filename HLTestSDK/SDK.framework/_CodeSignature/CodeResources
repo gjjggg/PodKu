@@ -4,41 +4,56 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/NewLib.h</key>
+		<key>Headers/SDK.h</key>
 		<data>
-		6TqLGpnvoriIRJdlNbdA10ZYZ3o=
+		m7aKiFrFRPZwDeUpUcTnhe+rxQw=
+		</data>
+		<key>Headers/SDKCat.h</key>
+		<data>
+		xtsnVGEFwyppfjDtZY21LE1BsVE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jOlzpseaNHLMyzCAeF6XyHKKL2s=
+		kEMDxMlqurXkBZgvk+odGIL/hmQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		jZog7OHZPh3Y1VxvAbw7sD543u8=
+		8/TZVMfR4vuW6YplWJHcs/FIf6w=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/NewLib.h</key>
+		<key>Headers/SDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6TqLGpnvoriIRJdlNbdA10ZYZ3o=
+			m7aKiFrFRPZwDeUpUcTnhe+rxQw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tiTmALEtGTgGOqCcwSWmjUH8U+BRoxq/ArVx433PJ+s=
+			dP/2WVfeYXyj6M38/rbcD+72RoIVZekadhUqzxJbf0U=
+			</data>
+		</dict>
+		<key>Headers/SDKCat.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xtsnVGEFwyppfjDtZY21LE1BsVE=
+			</data>
+			<key>hash2</key>
+			<data>
+			cO6kqdI3t2xfQTnZQGySeTnRLmHxD5mAc/acBwoX4Mk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			jZog7OHZPh3Y1VxvAbw7sD543u8=
+			8/TZVMfR4vuW6YplWJHcs/FIf6w=
 			</data>
 			<key>hash2</key>
 			<data>
-			GBRUdeNO8hAN87HIG/2m9K8Efs6OTTCYDVV1T00Xo6o=
+			eZnuB0QCSi23OgbaZtNyrr9eaSeSzgjtoTlx6LbqWk0=
 			</data>
 		</dict>
 	</dict>

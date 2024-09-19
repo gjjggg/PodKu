@@ -1,6 +1,0 @@
-framework module NewLib {
-  umbrella header "NewLib.h"
-  export *
-
-  module * { export * }
-}
