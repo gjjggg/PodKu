@@ -4,56 +4,41 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/SDK.h</key>
+		<key>Headers/NewLib.h</key>
 		<data>
-		m7aKiFrFRPZwDeUpUcTnhe+rxQw=
-		</data>
-		<key>Headers/SDKCat.h</key>
-		<data>
-		xtsnVGEFwyppfjDtZY21LE1BsVE=
+		6TqLGpnvoriIRJdlNbdA10ZYZ3o=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kEMDxMlqurXkBZgvk+odGIL/hmQ=
+		jOlzpseaNHLMyzCAeF6XyHKKL2s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		8/TZVMfR4vuW6YplWJHcs/FIf6w=
+		jZog7OHZPh3Y1VxvAbw7sD543u8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/SDK.h</key>
+		<key>Headers/NewLib.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m7aKiFrFRPZwDeUpUcTnhe+rxQw=
+			6TqLGpnvoriIRJdlNbdA10ZYZ3o=
 			</data>
 			<key>hash2</key>
 			<data>
-			dP/2WVfeYXyj6M38/rbcD+72RoIVZekadhUqzxJbf0U=
-			</data>
-		</dict>
-		<key>Headers/SDKCat.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xtsnVGEFwyppfjDtZY21LE1BsVE=
-			</data>
-			<key>hash2</key>
-			<data>
-			cO6kqdI3t2xfQTnZQGySeTnRLmHxD5mAc/acBwoX4Mk=
+			tiTmALEtGTgGOqCcwSWmjUH8U+BRoxq/ArVx433PJ+s=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8/TZVMfR4vuW6YplWJHcs/FIf6w=
+			jZog7OHZPh3Y1VxvAbw7sD543u8=
 			</data>
 			<key>hash2</key>
 			<data>
-			eZnuB0QCSi23OgbaZtNyrr9eaSeSzgjtoTlx6LbqWk0=
+			GBRUdeNO8hAN87HIG/2m9K8Efs6OTTCYDVV1T00Xo6o=
 			</data>
 		</dict>
 	</dict>
