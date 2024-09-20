@@ -24,7 +24,7 @@ Pod::Spec.new do |spec|
 
 
   spec.requires_arc = true
-  spec.frameworks = "AVFoundation","CFNetwork","CoreFoundation","CoreGraphics","CoreLocation","Foundation","MediaPlayer","Security","StoreKit","UIKit","WebKit","SystemConfiguration","QuartzCore","MobileCoreServices","CoreTelephony"
+  spec.frameworks = 'AVFoundation','CFNetwork','CoreFoundation','CoreGraphics','CoreLocation','Foundation','MediaPlayer','Security','StoreKit','UIKit','WebKit','SystemConfiguration','QuartzCore','MobileCoreServices','CoreTelephony'
   
 
 
