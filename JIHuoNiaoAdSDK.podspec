@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "JIHuoNiaoAdSDK"
-  spec.version      = "0.1.0.1"
+  spec.version      = "0.1.0.2"
   spec.summary      = "猫猫"
   spec.license      = "MIT"
   spec.author             = { "liuqun" => "1271719322@qq.com" }
