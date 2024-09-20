@@ -19,12 +19,13 @@ Pod::Spec.new do |spec|
    spec.user_target_xcconfig = {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64 x86_64'
    }
-   spec.frameworks = "AVFoundation","CFNetwork","CoreFoundation","CoreGraphics","CoreLocation","Foundation","MediaPlayer","Security","StoreKit","UIKit","WebKit","SystemConfiguration","QuartzCore","MobileCoreServices","CoreTelephony"
   spec.resource = 'HLTestSDK/JIHuoNiaoImage.bundle'
   spec.libraries = 'z'
 
 
   spec.requires_arc = true
+  spec.frameworks = "AVFoundation","CFNetwork","CoreFoundation","CoreGraphics","CoreLocation","Foundation","MediaPlayer","Security","StoreKit","UIKit","WebKit","SystemConfiguration","QuartzCore","MobileCoreServices","CoreTelephony"
+  
 
 
 end
